@@ -32,11 +32,11 @@
 ## Get in touch 
 
 
-<a href="https://www.linkedin.com/in/arturo-heber-camacho-arredondo-390683162" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%23694640?logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/arturo-heber-camacho-arredondo-390683162" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0077B5?logo=linkedin&logoColor=white"></a>
 
 <a href="https://www.reddit.com/user/hebercamacho" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/-Reddit-FF4500?logo=reddit&logoColor=white"></a>
 
-<a href="mailto:hebercamacho@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%23694640?logo=gmail&logoColor=white"></a>
+<a href="mailto:hebercamacho@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white"></a>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/gueboldinho?logoColor=%23694640&style=social)
 
