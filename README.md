@@ -38,6 +38,6 @@
 
 <a href="mailto:hebercamacho@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white"></a>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/gueboldinho?logoColor=%23694640&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/gueboldinho?logoColor=1DA1F2&style=social)
 
 
