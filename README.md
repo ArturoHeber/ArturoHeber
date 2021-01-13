@@ -1,16 +1,41 @@
-### Hi there 👋
+### Hi, I'm Heber 👋
 
-<!--
-**ArturoHeber/ArturoHeber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies 🛠️
 
-Here are some ideas to get you started:
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-23694640?logo=javascript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white)
+![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?logo=vue.js&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white)
+![MSSQLServer](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Oracle SQL
+* Oracle PL/SQL
+* Oracle Reports
+* Oracle BI Publisher
+* Oracle Forms
+* Oracle Application Express (APEX)
+* Oracle E-Business Suite R12
+* Oracle Netsuite
+
+## Soft Skills 📋
+
+🎨 Creativity
+
+💪 Motivation
+
+🙋 Social skills
+
+
+
+## Get in touch 
+
+
+<a href="https://www.linkedin.com/in/arturo-heber-camacho-arredondo-390683162" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%23694640?logo=linkedin&logoColor=white"></a>
+
+<a href="mailto:hebercamacho@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%23694640?logo=gmail&logoColor=white"></a>
+
+![Twitter Follow](https://img.shields.io/twitter/follow/gueboldinho?logoColor=%23694640&style=social)
+
+
