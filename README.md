@@ -17,7 +17,7 @@
 * Oracle Forms
 * Oracle Application Express (APEX)
 * Oracle E-Business Suite R12
-* Oracle Netsuite
+* Oracle NetSuite
 
 ## Soft Skills 📋
 
